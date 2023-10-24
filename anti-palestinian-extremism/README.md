@@ -1,6 +1,6 @@
 # Anti-Palestinian Extremism
 
-:warning: **_CONTENT WARNING: All content, including both text and images, in this dataset are unredacted/uncensored, and contains harmful language, violent speech/threats, and possibly also graphic imagery._**
+:warning: **CONTENT WARNING: The content in this dataset (both text and images) are _mostly_ unredacted/uncensored, and contains harmful language, violent speech/threats, and possibly also graphic imagery.**
 
 ## Description
 
