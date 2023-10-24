@@ -1,5 +1,7 @@
 # Anti-Palestinian Extremism
 
+:warning: **_CONTENT WARNING: All content, including both text and images, in this dataset are unredacted/uncensored, and contains harmful language, violent speech/threats, and possibly also graphic imagery._**
+
 ## Description
 
 This directory contains all post/user data, spreadsheets (.csv), archive links, analyses, and screenshot images (.png) that are being programmatically collected for social media posts between (roughly) September 22, 2023 to October 24, 2023 and onwards (ongoing; work in progress) on various platforms. Below are just a few of the thousands of examples of extreme anti-palestinian racism, violent speech or threats, genocidal rhetoric, dehumanization, etc. that have been found (in alphabetical order).
