@@ -8,7 +8,13 @@ This directory contains all post/user data, spreadsheets (.csv), archive links, 
 
 ## Twitter (X Corp.)
 
-_Twitter data is still being collected, archived, and analyzed (WIP)._
+The following search query is being used for tweet collection:
+
+Query string: *"(obliterate OR "wipe out" OR "wiped out" OR nuke OR destroy OR destroyed OR flatten OR flattened OR level OR leveled OR levelled OR glass OR glassed) AND (gaza OR "west bank" OR palestine) OR (#glassgaza OR #flattengaza OR #levelgaza)"*
+
+Query URL: https://twitter.com/search?q=(obliterate%20OR%20%22wipe%20out%22%20OR%20%22wiped%20out%22%20OR%20nuke%20OR%20destroy%20OR%20destroyed%20OR%20flatten%20OR%20flattened%20OR%20level%20OR%20leveled%20OR%20levelled%20OR%20glass%20OR%20glassed)%20AND%20(gaza%20OR%20%22west%20bank%22%20OR%20palestine)%20OR%20(%23glassgaza%20OR%20%23flattengaza%20OR%20%23levelgaza)&src=typed_query&f=live
+
+_Please note: Twitter data is still being collected, archived, and analyzed (WIP; ~50% complete; ETA 2023/10/28)._
 
 ---
 ![https://twitter.com/emilykschrader/status/1715630641822216228](screenshots/emilykschrader-1715630641822216228.png?raw=true)<br>
