@@ -17,27 +17,27 @@ Query URL: https://twitter.com/search?q=(obliterate%20OR%20%22wipe%20out%22%20OR
 _Please note: Twitter data is still being collected, archived, and analyzed (WIP; ~50% complete; ETA 2023/10/28)._
 
 ---
-![https://twitter.com/emilykschrader/status/1715630641822216228](screenshots/emilykschrader-1715630641822216228.png?raw=true)<br>
+![https://twitter.com/emilykschrader/status/1715630641822216228](twitter/tweet-screenshots/emilykschrader-1715630641822216228.png?raw=true)<br>
 #### [Twitter](https://twitter.com/emilykschrader/status/1715630641822216228) | [Archive](https://web.archive.org/web/20231022052911/https://twitter.com/emilykschrader/status/1715630641822216228)
 ---
-![https://twitter.com/HananyaNaftali/status/1714250217711645033](screenshots/HananyaNaftali-1714250217711645033.png?raw=true)
+![https://twitter.com/HananyaNaftali/status/1714250217711645033](twitter/tweet-screenshots/HananyaNaftali-1714250217711645033.png?raw=true)
 #### [Twitter](https://twitter.com/HananyaNaftali/status/1714250217711645033) | [Archive](https://web.archive.org/web/20231024212823/https://twitter.com/HananyaNaftali/status/1714250217711645033)
 ---
-![https://twitter.com/LauraLoomer/status/1710755224615260632](screenshots/LauraLoomer-1710755224615260632.png?raw=true)
+![https://twitter.com/LauraLoomer/status/1710755224615260632](twitter/tweet-screenshots/LauraLoomer-1710755224615260632.png?raw=true)
 #### [Twitter](https://twitter.com/LauraLoomer/status/1710755224615260632) | [Archive](https://web.archive.org/web/20231024212937/https://twitter.com/LauraLoomer/status/1710755224615260632)
 ---
-![https://twitter.com/LauraLoomer/status/1710996575399334180](screenshots/LauraLoomer-1710996575399334180.png?raw=true)
+![https://twitter.com/LauraLoomer/status/1710996575399334180](twitter/tweet-screenshots/LauraLoomer-1710996575399334180.png?raw=true)
 #### [Twitter](https://twitter.com/LauraLoomer/status/1710996575399334180) | [Archive](https://web.archive.org/web/20231024213112/https://twitter.com/LauraLoomer/status/1710996575399334180)
 ---
-![https://twitter.com/LauraLoomer/status/1711054737406103556](screenshots/LauraLoomer-1711054737406103556.png?raw=true)
+![https://twitter.com/LauraLoomer/status/1711054737406103556](twitter/tweet-screenshots/LauraLoomer-1711054737406103556.png?raw=true)
 #### [Twitter](https://twitter.com/LauraLoomer/status/1711054737406103556) | [Archive](https://web.archive.org/web/20231024213309/https://twitter.com/LauraLoomer/status/1711054737406103556)
 ---
-![https://twitter.com/LauraLoomer/status/1711100667346006371](screenshots/LauraLoomer-1711100667346006371.png?raw=true)
+![https://twitter.com/LauraLoomer/status/1711100667346006371](twitter/tweet-screenshots/LauraLoomer-1711100667346006371.png?raw=true)
 #### [Twitter](https://twitter.com/LauraLoomer/status/1711100667346006371) | [Archive](https://web.archive.org/web/20231024213502/https://twitter.com/LauraLoomer/status/1711100667346006371)
 ---
-![https://twitter.com/LauraLoomer/status/1711125191483380162](screenshots/LauraLoomer-1711125191483380162.png?raw=true)
+![https://twitter.com/LauraLoomer/status/1711125191483380162](twitter/tweet-screenshots/LauraLoomer-1711125191483380162.png?raw=true)
 #### [Twitter](https://twitter.com/LauraLoomer/status/1711125191483380162) | [Archive](https://web.archive.org/web/20231009061200/https://twitter.com/LauraLoomer/status/1711125191483380162)
 ---
-![https://twitter.com/MattRinaldiTX/status/1711208151402308050](screenshots/MattRinaldiTX-1711208151402308050.png?raw=true)
+![https://twitter.com/MattRinaldiTX/status/1711208151402308050](twitter/tweet-screenshots/MattRinaldiTX-1711208151402308050.png?raw=true)
 #### [Twitter](https://twitter.com/MattRinaldiTX/status/1711208151402308050) | [Archive](https://web.archive.org/web/20231024213807/https://twitter.com/MattRinaldiTX/status/1711208151402308050)
 ---
